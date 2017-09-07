@@ -15,3 +15,11 @@ function johnLennonFacts(facts) {
   }
   return newFacts
 }
+
+function iLoveTheBeatles(n) {
+  beatleLove = []
+  while (n < 15) {
+    beatleLove.push('I love the Beatles!')
+  }
+  return beatleLove
+}
