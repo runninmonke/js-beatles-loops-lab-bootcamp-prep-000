@@ -1,7 +1,7 @@
 
 
 function iLoveTheBeatles(n) {
-  beatleLove = []
+  var beatleLove = []
   do {
     beatleLove.push('I love the Beatles!')
   } while (n < 15);
