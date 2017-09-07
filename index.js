@@ -3,6 +3,7 @@ function theBeatlesPlay(musicians, instruments) {
   for (z = 0; z < instruments.length; z++) {
     arrangments.push(`${musicians[z]} plays ${instruments[z]}`)
   }
+  console.log(arrangments)
   return arrangments
 }
 
